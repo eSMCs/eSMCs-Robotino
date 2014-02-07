@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/" lang="Deutsch">
+        <file>icons/task-reject.png</file>
+        <file>icons/arrow-down.png</file>
+        <file>icons/arrow-left.png</file>
+        <file>icons/arrow-right.png</file>
+        <file>icons/arrow-up.png</file>
+        <file>icons/arrow-ccl.png</file>
+        <file>icons/arrow-cl.png</file>
+        <file>icons/arrow-stop.png</file>
+        <file>robotino-icon.png</file>
+        <file>robertino.png</file>
+        <file>icons/media-playback-pause.png</file>
+        <file>icons/media-playback-start.png</file>
+        <file>icons/media-playback-stop.png</file>
+        <file>icons/media-record.png</file>
+        <file>icons/media-seek-forward.png</file>
+        <file>icons/media-skip-forward.png</file>
+        <file>icons/office-chart-bar.png</file>
+        <file>icons/SMCcircle.png</file>
+        <file>icons/media-record-inactive.png</file>
+    </qresource>
+</RCC>
